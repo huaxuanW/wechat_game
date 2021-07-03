@@ -1,0 +1,20 @@
+.
+├── README.md
+├── data
+│   ├── submit
+│   └── wedata
+│       └── wechat_algo_data1
+├── init.sh
+├── requirements.txt
+├── src
+│   ├── auc.py
+│   ├── embedding_feature.py
+│   ├── feature_stat.py
+│   ├── id_embedding.py
+│   ├── model_lgb.py
+│   ├── pca.py
+│   └── reduce_mem.py
+├── train.sh
+└── tree.text
+
+5 directories, 12 files
